@@ -1,0 +1,5 @@
+# Remove all vscode related files
+/.vscode
+
+# Remove all binaries
+/.compile
