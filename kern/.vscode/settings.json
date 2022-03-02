@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "opt-file.h": "c",
+        "types.h": "c"
+    }
+}
